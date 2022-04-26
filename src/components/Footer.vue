@@ -1,6 +1,6 @@
 <template>
     <footer id="footer">
-    <p>Dev Burguer &copy; 2022</p>
+    <p>ViniciusDev Burguer &copy; 2022</p>
     </footer>
 </template>
 <script>
